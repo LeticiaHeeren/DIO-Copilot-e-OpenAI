@@ -14,12 +14,12 @@ Nesse projeto da DIO foi proposto experimentar as ferramentas de inteligência a
 
 # O Que Aprendi
 
-**A IA não é mágica –** ela tem limites bem definidos e precisa de orientação humana.
+A IA não é mágica, ela tem limites bem definidos e precisa de orientação humana.
 
-Os filtros de conteúdo são mais eficientes do que eu imaginava, bloqueando até tentativas sutis de acessar material inadequado.
+Os filtros de conteúdo são bastante eficientes, bloqueando até tentativas sutis de acessar material inadequado.
 
 Ferramentas como o Copilot podem, de fato, acelerar o aprendizado e o processo de programação.
 
-Desafios Encontrados
+# Desafios Encontrados
 
-Algumas imagens com fontes decorativas não foram corretamente interpretadas.
+Ainda há muitos problemas a serem superados. Algumas imagens com fontes decorativas não foram corretamente interpretadas. Ela constantemente alucina dependendo do assunto, etc. 
